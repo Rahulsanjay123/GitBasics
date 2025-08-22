@@ -1,2 +1,0 @@
-This is my third file in github uploades using VScode.
-With updated text after I inserted the file in GITHUB.
